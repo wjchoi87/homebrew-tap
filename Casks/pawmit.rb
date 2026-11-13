@@ -1,6 +1,6 @@
 cask "pawmit" do
-  version "0.2.3"
-  sha256 "b8a7ef9dd072e5120eb8e60191280ec8ce121ee6da3fd1d8ee0524827a8c7bef"
+  version "0.2.4"
+  sha256 "ef322e7723161846a3244257475d8e223fbe54e55b09c5c20d1ff6476b4664e6"
 
   url "https://github.com/wjchoi87/Pawmit/releases/download/v#{version}/Pawmit-#{version}.zip"
   name "Pawmit"
