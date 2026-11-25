@@ -1,6 +1,6 @@
 cask "kakaotolinear" do
-  version "0.5.0"
-  sha256 "20ba772540c2884a3dbc3683f99c3a27a0e66045e565c84a9f1f15d26ebd9771"
+  version "0.5.1"
+  sha256 "614b1e95ebf10ea4d6b2f208f6a6158d2c7663df6d965b60ccdf2b510fd19ca8"
 
   url "https://github.com/wjchoi87/KakaoToLinear/releases/download/v#{version}/KakaoToLinear-#{version}.zip"
   name "KakaoToLinear"
